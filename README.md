@@ -16,11 +16,9 @@ with LLMs in the loop. This profile is where the side projects live.
 
 I'm a Business Consultant at [Blue Yonder](https://blueyonder.com), working on
 transportation and supply chain optimization for Fortune 500 clients across North
-America and EMEA. Before that: early-stage VC scouting at [WEH Ventures](https://www.wehventures.com),
-a early stint at a cybersecurity startup, and quantum computing research at RVCE.
+America and EMEA.
 
-A generalist by design — equally at home in operations strategy, deal sourcing, or
-shipping software. Lately, most of that energy has gone into building.
+A generalist by design. Lately, most of that energy has gone into building.
 
 **Socials**
 
